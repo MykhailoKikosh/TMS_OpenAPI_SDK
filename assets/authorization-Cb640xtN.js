@@ -1,0 +1,3 @@
+import{Z as i,j as n}from"./entry.client-BNsscdxb.js";const a="Endpoints do not require authorization.",s=[{depth:2,value:"Authorization",id:"authorization"}],u={title:"Authorization"};function e(t){const o={h2:"h2",p:"p",...i(),...t.components};return n.jsxs(n.Fragment,{children:[n.jsx(o.h2,{id:"authorization",children:"Authorization"}),`
+`,n.jsx(o.p,{children:"Endpoints do not require authorization."})]})}function c(t={}){const{wrapper:o}={...i(),...t.components};return o?n.jsx(o,{...t,children:n.jsx(e,{...t})}):e(t)}export{c as default,a as excerpt,u as frontmatter,s as tableOfContents};
+//# sourceMappingURL=authorization-Cb640xtN.js.map
